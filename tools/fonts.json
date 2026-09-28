@@ -1,0 +1,5 @@
+[
+ {"file":"orbit_time.ttf","family":"Orbit Time","style":"Bold","axes":{"opsz":144,"wdth":84,"wght":680,"GRAD":0,"ROND":100,"slnt":0},"chars":"0123456789: ","tabular":true},
+ {"file":"orbit_time_light.ttf","family":"Orbit Time","style":"Light","axes":{"opsz":144,"wdth":84,"wght":260,"GRAD":0,"ROND":100,"slnt":0},"chars":"0123456789: ","tabular":true,"match":"orbit_time.ttf"},
+ {"file":"orbit_label.ttf","family":"Orbit Label","style":"Medium","axes":{"opsz":16,"wdth":100,"wght":560,"GRAD":0,"ROND":100,"slnt":0}}
+]

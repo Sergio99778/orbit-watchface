@@ -1,0 +1,9 @@
+# Build output and signing keys never go in the repository.
+build/
+dist/
+keystore/
+*.jks
+*.keystore
+*.p12
+__pycache__/
+tools/_system_font.ttf

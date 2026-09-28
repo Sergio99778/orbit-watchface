@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="watch_face_name">Orbit</string>
+    <string name="theme_label">Colors</string>
+    <string name="seconds_label">Seconds</string>
+    <string name="seconds_smooth">Smooth</string>
+    <string name="seconds_tick">Tick</string>
+    <string name="seconds_off">Off</string>
+    <string name="complication_left">Left</string>
+    <string name="complication_right">Right</string>
+    <string name="theme_aurora">Aurora</string>
+    <string name="theme_solar">Solar</string>
+    <string name="theme_nebula">Nebula</string>
+    <string name="theme_glacier">Glacier</string>
+    <string name="theme_lime">Lime</string>
+    <string name="theme_classic">Classic</string>
+</resources>

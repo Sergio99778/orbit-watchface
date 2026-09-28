@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="app.orbit.watchface"
+    android:versionCode="3"
+    android:versionName="1.1.1">
+
+  <uses-sdk android:minSdkVersion="36" android:targetSdkVersion="36"/>
+  <uses-feature android:name="android.hardware.type.watch"/>
+
+  <!-- Watch Face Format watch faces are resource-only: no code is allowed. -->
+  <application
+      android:label="@string/watch_face_name"
+      android:icon="@drawable/ic_launcher"
+      android:hasCode="false">
+    <meta-data android:name="com.google.android.wearable.standalone" android:value="true"/>
+    <meta-data android:name="author" android:value="Sergio De Lucio"/>
+    <meta-data android:name="license" android:value="CC BY-NC-SA 4.0 - https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+    <property android:name="com.google.wear.watchface.format.version" android:value="4"/>
+  </application>
+</manifest>
